@@ -14,7 +14,6 @@ d. Create a brand logo using Canva, following styling and branding guidelines an
 5. Apply Gestalt principles for organization and visual hierarchy.
 6. Define interaction states and ensure accessibility.
 7. Review the design and export the final UI screens.
-8. 
 ## Output:
 
 ## Result:
